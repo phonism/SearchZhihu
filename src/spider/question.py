@@ -11,7 +11,6 @@ def AnswerBase(object):
         self.answer_id = answer_id
         self.question_id = question_id
 
-
         
 
 
@@ -55,6 +54,10 @@ class Question(object):
                 self.answer_num = self.soup.find("h3", {"id": "zh-question-answer-num"})["data-num"]
         return self.answer_num
 
+    def get_tags(self):
+        if self.soup is None:
+            self._get_soup()
+
     def get_answer_list(self):
         base_url = "https://www.zhihu.com/node/QuestionAnswerListV2"
         if int(self.get_answer_num()) == 0:
@@ -74,6 +77,14 @@ class Question(object):
         return answer_list
     
     def get_question_info(self):
+        q_json = {}
         if self.soup is None:
             self._get_soup()
+        q_json["question_id"] = self.question_id
+        q_json["url"] = "https://www.zhihu.com/question/" + self.question_id
+        q_json["title"] = self.soup.find("title").text.strip().encode("utf-8")
+        q_json["detail"] = self.soup.find("div", {"id": "zh-question-detail"}).text.strip().encode("utf-8")
+        q_json["answer_num"] = int(self.get_answer_num())
+        q_json["follower_num"] = int(self.soup.find("a", {"href": "/question/" + self.question_id + "/ollowers"}).find("strong").text.strip())
+        q_json["tags"] = 
 
