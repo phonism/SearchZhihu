@@ -4,6 +4,7 @@
     "title": "微信和QQ视频聊天会不会被腾讯后台监控？",
     "detail": "以我的了解，腾讯内部安全技术部门和政策合规部门自几年前就分开了",
     "author": "None",
+    "comment_num" 2,
     "answer_num": 23,
     "follower_num": 345,
     "tags": [
@@ -12,8 +13,8 @@
         "微信开发",
         "隐私泄露"
     ],
-    "rencent_modify": "2016-06-17",
+    "recent_modify": "2016-06-17",
     "view_num": 6703,
     "topic_follower_num": 227367,
-    "fold_answer_num": 4
+    "collapsed_num": 4
 }
