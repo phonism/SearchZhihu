@@ -1,0 +1,3469 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth ">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+<meta http-equiv="X-ZA-Response-Id" content="2967d2dfe1d942a5aef80acd7d5b0a41">
+
+<title>老王夫子 答过的问题 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://people/lao-wang-fu-zi">
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=https://www.zhihu.com/people/lao-wang-fu-zi/answers">
+<meta id="znonce" name="znonce" content="da933916442a4dd784cb9a7aa9512f2d">
+
+
+
+<link rel="apple-touch-icon" href="https://static.zhihu.com/static/revved/img/ios/touch-icon-152.87c020b9.png" sizes="152x152">
+<link rel="apple-touch-icon" href="https://static.zhihu.com/static/revved/img/ios/touch-icon-120.496c913b.png" sizes="120x120">
+<link rel="apple-touch-icon" href="https://static.zhihu.com/static/revved/img/ios/touch-icon-76.dcf79352.png" sizes="76x76">
+<link rel="apple-touch-icon" href="https://static.zhihu.com/static/revved/img/ios/touch-icon-60.9911cffb.png" sizes="60x60">
+
+
+<link rel="shortcut icon" href="https://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="https://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="https://static.zhihu.com/static/revved/-/css/z.ebbe0d18.css">
+<link rel="stylesheet" href="https://static.zhihu.com/static/revved/-/css/pages/profile/main.72a07704.css">
+
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+
+
+
+<!--[if lt IE 9]>
+<script src="https://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="https://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+<script src="https://static.zhihu.com/static/revved/-/js/instant.e7a17de6.js"></script>
+
+<link rel="canonical" href="https://www.zhihu.com/people/lao-wang-fu-zi" />
+
+</head>
+
+<body class="zhi ">
+
+
+
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting clearfix" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo" data-za-c="view_home" data-za-a="visit_home" data-za-l="top_navigation_zhihu_logo">知乎</a>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form">
+
+
+
+<input type="hidden" name="type" value="content">
+<label for="q" class="hide-text">知乎搜索</label><input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索你感兴趣的内容...">
+<button type="submit" class="zu-top-search-button"><span class="hide-text">搜索</span><span class="sprite-global-icon-magnifier-dark"></span></button>
+</form>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home" data-za-c="view_home" data-za-a="visit_home" data-za-l="top_navigation_home">首页</a>
+</li>
+
+
+
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+</li>
+
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<span class="noti-spinner-loading"></span>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<span class="noti-spinner-loading"></span>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<span class="noti-spinner-loading"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+
+
+
+<div class="zg-wrap zu-main clearfix "  role="main">
+<div class="zu-main-content">
+<div class="zu-main-content-inner">
+
+
+
+
+<div class="zm-profile-header ProfileCard">
+<div class="zm-profile-header-main">
+<div class="top">
+
+<div class='weibo-wrap'>
+
+<a class="zm-profile-header-user-weibo" target="_blank" href="http://weibo.com/u/2649077987" data-tip="s$b$新浪微博"><i class="zm-profile-header-icon sina"></i></a>
+
+</div>
+
+<div class="title-section ellipsis">
+<a class="name" href="/people/lao-wang-fu-zi">老王夫子</a>，<span class="bio" title="知乎专栏：夫子三乐；微信公众号：fuzisanle。">知乎专栏：夫子三乐；微信公众号：fuzisanle。</span>
+</div>
+</div>
+<div class="body clearfix">
+
+<img class="Avatar Avatar--l" src="https://pic4.zhimg.com/bd1a5b76b83e123336885fbd84c70033_l.jpg" srcset="https://pic4.zhimg.com/bd1a5b76b83e123336885fbd84c70033_xl.jpg 2x" alt="老王夫子" />
+
+<div class="zm-profile-header-info">
+<div class="zm-profile-header-user-describe">
+<div class="items">
+
+<div class="item editable-group" data-name="location">
+
+<i class="icon icon-profile-location"></i>
+
+<span class="info-wrap">
+
+<span class="location item" title="北京"><a href="/topic/19550828" title="北京" class="topic-link" data-token="19550828" data-topicid="202">北京</a></span>
+
+
+<span class="business item" title="培训"><a href="/topic/19568266" title="培训" class="topic-link" data-token="19568266" data-topicid="6031">培训</a></span>
+
+
+<span class="item gender" ><i class="icon icon-profile-male"></i></span>
+
+
+</span>
+<span class="edit-wrap" style="display:none;">
+<span class="topic-input-wrap"><input autocomplete="off" aria-haspopup="true" type="text" name="location" value="北京" class="zg-form-text-input location" placeholder="居住地"/></span>
+<div class="business-selection">
+<select name="business">
+<option value="">选择行业</option>
+
+
+<option value="高新科技">高新科技</option>
+
+<option value="互联网">&nbsp;&nbsp;&nbsp;互联网</option>
+
+<option value="电子商务">&nbsp;&nbsp;&nbsp;电子商务</option>
+
+<option value="电子游戏">&nbsp;&nbsp;&nbsp;电子游戏</option>
+
+<option value="计算机软件">&nbsp;&nbsp;&nbsp;计算机软件</option>
+
+<option value="计算机硬件">&nbsp;&nbsp;&nbsp;计算机硬件</option>
+
+
+
+
+<option value="信息传媒">信息传媒</option>
+
+<option value="出版业">&nbsp;&nbsp;&nbsp;出版业</option>
+
+<option value="电影录音">&nbsp;&nbsp;&nbsp;电影录音</option>
+
+<option value="广播电视">&nbsp;&nbsp;&nbsp;广播电视</option>
+
+<option value="通信">&nbsp;&nbsp;&nbsp;通信</option>
+
+
+
+
+<option value="金融">金融</option>
+
+<option value="银行">&nbsp;&nbsp;&nbsp;银行</option>
+
+<option value="资本投资">&nbsp;&nbsp;&nbsp;资本投资</option>
+
+<option value="证券投资">&nbsp;&nbsp;&nbsp;证券投资</option>
+
+<option value="保险">&nbsp;&nbsp;&nbsp;保险</option>
+
+<option value="信贷">&nbsp;&nbsp;&nbsp;信贷</option>
+
+<option value="财务">&nbsp;&nbsp;&nbsp;财务</option>
+
+<option value="审计">&nbsp;&nbsp;&nbsp;审计</option>
+
+
+
+
+<option value="服务业">服务业</option>
+
+<option value="法律">&nbsp;&nbsp;&nbsp;法律</option>
+
+<option value="餐饮">&nbsp;&nbsp;&nbsp;餐饮</option>
+
+<option value="酒店">&nbsp;&nbsp;&nbsp;酒店</option>
+
+<option value="旅游">&nbsp;&nbsp;&nbsp;旅游</option>
+
+<option value="广告">&nbsp;&nbsp;&nbsp;广告</option>
+
+<option value="公关">&nbsp;&nbsp;&nbsp;公关</option>
+
+<option value="景观">&nbsp;&nbsp;&nbsp;景观</option>
+
+<option value="咨询分析">&nbsp;&nbsp;&nbsp;咨询分析</option>
+
+<option value="市场推广">&nbsp;&nbsp;&nbsp;市场推广</option>
+
+<option value="人力资源">&nbsp;&nbsp;&nbsp;人力资源</option>
+
+<option value="社工服务">&nbsp;&nbsp;&nbsp;社工服务</option>
+
+<option value="养老服务">&nbsp;&nbsp;&nbsp;养老服务</option>
+
+
+
+
+<option value="教育">教育</option>
+
+<option value="高等教育">&nbsp;&nbsp;&nbsp;高等教育</option>
+
+<option value="基础教育">&nbsp;&nbsp;&nbsp;基础教育</option>
+
+<option value="职业教育">&nbsp;&nbsp;&nbsp;职业教育</option>
+
+<option value="幼儿教育">&nbsp;&nbsp;&nbsp;幼儿教育</option>
+
+<option value="特殊教育">&nbsp;&nbsp;&nbsp;特殊教育</option>
+
+<option value="培训" selected>&nbsp;&nbsp;&nbsp;培训</option>
+
+
+
+
+<option value="医疗服务">医疗服务</option>
+
+<option value="临床医疗">&nbsp;&nbsp;&nbsp;临床医疗</option>
+
+<option value="制药">&nbsp;&nbsp;&nbsp;制药</option>
+
+<option value="保健">&nbsp;&nbsp;&nbsp;保健</option>
+
+<option value="美容">&nbsp;&nbsp;&nbsp;美容</option>
+
+<option value="医疗器材">&nbsp;&nbsp;&nbsp;医疗器材</option>
+
+<option value="生物工程">&nbsp;&nbsp;&nbsp;生物工程</option>
+
+<option value="疗养服务">&nbsp;&nbsp;&nbsp;疗养服务</option>
+
+<option value="护理服务">&nbsp;&nbsp;&nbsp;护理服务</option>
+
+
+
+
+<option value="艺术娱乐">艺术娱乐</option>
+
+<option value="创意艺术">&nbsp;&nbsp;&nbsp;创意艺术</option>
+
+<option value="体育健身">&nbsp;&nbsp;&nbsp;体育健身</option>
+
+<option value="娱乐休闲">&nbsp;&nbsp;&nbsp;娱乐休闲</option>
+
+<option value="图书馆">&nbsp;&nbsp;&nbsp;图书馆</option>
+
+<option value="博物馆">&nbsp;&nbsp;&nbsp;博物馆</option>
+
+<option value="策展">&nbsp;&nbsp;&nbsp;策展</option>
+
+<option value="博彩">&nbsp;&nbsp;&nbsp;博彩</option>
+
+
+
+
+<option value="制造加工">制造加工</option>
+
+<option value="食品饮料业">&nbsp;&nbsp;&nbsp;食品饮料业</option>
+
+<option value="纺织皮革业">&nbsp;&nbsp;&nbsp;纺织皮革业</option>
+
+<option value="服装业">&nbsp;&nbsp;&nbsp;服装业</option>
+
+<option value="烟草业">&nbsp;&nbsp;&nbsp;烟草业</option>
+
+<option value="造纸业">&nbsp;&nbsp;&nbsp;造纸业</option>
+
+<option value="印刷业">&nbsp;&nbsp;&nbsp;印刷业</option>
+
+<option value="化工业">&nbsp;&nbsp;&nbsp;化工业</option>
+
+<option value="汽车">&nbsp;&nbsp;&nbsp;汽车</option>
+
+<option value="家具">&nbsp;&nbsp;&nbsp;家具</option>
+
+<option value="电子电器">&nbsp;&nbsp;&nbsp;电子电器</option>
+
+<option value="机械设备">&nbsp;&nbsp;&nbsp;机械设备</option>
+
+<option value="塑料工业">&nbsp;&nbsp;&nbsp;塑料工业</option>
+
+<option value="金属加工">&nbsp;&nbsp;&nbsp;金属加工</option>
+
+<option value="军火">&nbsp;&nbsp;&nbsp;军火</option>
+
+
+
+
+<option value="地产建筑">地产建筑</option>
+
+<option value="房地产">&nbsp;&nbsp;&nbsp;房地产</option>
+
+<option value="装饰装潢">&nbsp;&nbsp;&nbsp;装饰装潢</option>
+
+<option value="物业服务">&nbsp;&nbsp;&nbsp;物业服务</option>
+
+<option value="特殊建造">&nbsp;&nbsp;&nbsp;特殊建造</option>
+
+<option value="建筑设备">&nbsp;&nbsp;&nbsp;建筑设备</option>
+
+
+
+
+<option value="贸易零售">贸易零售</option>
+
+<option value="零售">&nbsp;&nbsp;&nbsp;零售</option>
+
+<option value="大宗交易">&nbsp;&nbsp;&nbsp;大宗交易</option>
+
+<option value="进出口贸易">&nbsp;&nbsp;&nbsp;进出口贸易</option>
+
+
+
+
+<option value="公共服务">公共服务</option>
+
+<option value="政府">&nbsp;&nbsp;&nbsp;政府</option>
+
+<option value="国防军事">&nbsp;&nbsp;&nbsp;国防军事</option>
+
+<option value="航天">&nbsp;&nbsp;&nbsp;航天</option>
+
+<option value="科研">&nbsp;&nbsp;&nbsp;科研</option>
+
+<option value="给排水">&nbsp;&nbsp;&nbsp;给排水</option>
+
+<option value="水利能源">&nbsp;&nbsp;&nbsp;水利能源</option>
+
+<option value="电力电网">&nbsp;&nbsp;&nbsp;电力电网</option>
+
+<option value="公共管理">&nbsp;&nbsp;&nbsp;公共管理</option>
+
+<option value="环境保护">&nbsp;&nbsp;&nbsp;环境保护</option>
+
+<option value="非营利组织">&nbsp;&nbsp;&nbsp;非营利组织</option>
+
+
+
+
+<option value="开采冶金">开采冶金</option>
+
+<option value="煤炭工业">&nbsp;&nbsp;&nbsp;煤炭工业</option>
+
+<option value="石油工业">&nbsp;&nbsp;&nbsp;石油工业</option>
+
+<option value="黑色金属">&nbsp;&nbsp;&nbsp;黑色金属</option>
+
+<option value="有色金属">&nbsp;&nbsp;&nbsp;有色金属</option>
+
+<option value="土砂石开采">&nbsp;&nbsp;&nbsp;土砂石开采</option>
+
+<option value="地热开采">&nbsp;&nbsp;&nbsp;地热开采</option>
+
+
+
+
+<option value="交通仓储">交通仓储</option>
+
+<option value="邮政">&nbsp;&nbsp;&nbsp;邮政</option>
+
+<option value="物流递送">&nbsp;&nbsp;&nbsp;物流递送</option>
+
+<option value="地面运输">&nbsp;&nbsp;&nbsp;地面运输</option>
+
+<option value="铁路运输">&nbsp;&nbsp;&nbsp;铁路运输</option>
+
+<option value="管线运输">&nbsp;&nbsp;&nbsp;管线运输</option>
+
+<option value="航运业">&nbsp;&nbsp;&nbsp;航运业</option>
+
+<option value="民用航空业">&nbsp;&nbsp;&nbsp;民用航空业</option>
+
+
+
+
+<option value="农林牧渔">农林牧渔</option>
+
+<option value="种植业">&nbsp;&nbsp;&nbsp;种植业</option>
+
+<option value="畜牧养殖业">&nbsp;&nbsp;&nbsp;畜牧养殖业</option>
+
+<option value="林业">&nbsp;&nbsp;&nbsp;林业</option>
+
+<option value="渔业">&nbsp;&nbsp;&nbsp;渔业</option>
+
+
+
+</select>
+</div>
+<span class="zg-bull">|</span>
+<input type="radio" name="gender" value="1" checked="checked" class="male"/> 男&nbsp;&nbsp;
+<input type="radio" name="gender" value="0"  class="female"/> 女
+<a class="zg-btn-blue" name="save" href="javascript:;">确定</a>
+</span>
+</div>
+
+<div class="item editable-group " data-name="employment">
+<i class="icon icon-profile-company"></i>
+<span class="info-wrap">
+
+<span class="employment item" title="高思教育"><a href="/topic/19770067" title="高思教育" class="topic-link" data-token="19770067" data-topicid="73475">高思教育</a></span>
+
+
+
+</span>
+<span class='info-empty-wrap'><a href="javascript:;" name="edit" class="zg-link-litblue-normal">填写工作信息</a></span>
+<span class="edit-wrap" style="display:none;">
+<span class="topic-input-wrap"><input autocomplete="off" aria-haspopup="true" type="text" name="employment" value="高思教育" class="zg-form-text-input employment" placeholder="公司或组织名称"/></span>
+<span class="topic-input-wrap"><input autocomplete="off" aria-haspopup="true" type="text" name="position" value="" class="zg-form-text-input position" placeholder="你的职位"/></span>
+<a class="zg-btn-blue" name="save" href="javascript:;">确定</a>
+</span>
+</div>
+
+
+<div class="item editable-group " data-name="education" >
+<i class="icon icon-profile-education"></i>
+<span class="info-wrap">
+
+<span class="education item" title="BIT">BIT</span>
+
+
+<span class="education-extra item" title='el'>el</span>
+
+
+</span>
+<span class='info-empty-wrap'><a href="javascript:;" name="edit" class="zg-link-litblue-normal">填写教育信息</a></span>
+<span class="edit-wrap" style="display:none;">
+<span class="topic-input-wrap"><input autocomplete="off" aria-haspopup="true" type="text" name="education" value="BIT" class="zg-form-text-input education" placeholder="学校或教育机构"/></span>
+<span class="topic-input-wrap"><input autocomplete="off" aria-haspopup="true" type="text" name="education" value="el" class="zg-form-text-input education-extra" placeholder="专业方向"/></span>
+<a class="zg-btn-blue" name="save" href="javascript:;">确定</a>
+</span>
+</div>
+
+<div class="item">
+
+<a class="zm-profile-header-user-detail zg-link-litblue-normal zm-profile-icon-return" href="/people/lao-wang-fu-zi">
+<i class="icon zm-profile-header-icon"></i>
+<span>返回个人主页</span>
+</a>
+
+</div>
+
+</div>
+
+<div class="zm-profile-header-description editable-group " data-name="description">
+<span class="info-wrap fold-wrap fold disable-fold">
+<span class="description unfold-item">
+<span class="content">
+
+中小学教师、教师培训师、ICT
+
+</span>
+<a href="javascript:;" name="fold" class="fold collapse meta-item"><i class="z-icon-fold"></i>收起</a>
+</span>
+<span class="fold-item">
+<span class="content">
+
+中小学教师、教师培训师、ICT
+
+</span>
+<a href="javascript:;" class="unfold zg-link-litblue-normal" name="unfold">显示全部 »</a>
+</span>
+
+</span>
+<span class='info-empty-wrap'><a href="javascript:;" name="edit" class="zg-link-litblue-normal">
+<i class="zg-icon zg-icon-edit-button-blue"></i>
+<span>填写个人简介</span>
+</a></span>
+<span class="edit-wrap" style="display:none;">
+<div class="zm-editable-editor-outer">
+<div class="zm-editable-editor-inner zg-form-text-input">
+<textarea name="description" value="" class="zm-editable-editor-input description" id="profile-header-description-input">中小学教师、教师培训师、ICT</textarea>
+</div>
+</div>
+<a class="zg-btn-blue" name="save" href="javascript:;">确定</a>
+</span>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="zm-profile-header-marked">
+<i class="sprite-global-icon-marked"></i>被知乎周刊、知乎圆桌和编辑推荐收录了 <a class="zg-link-litblue-normal" href="/people/lao-wang-fu-zi/answers/marked">3 个回答</a>
+</div>
+
+
+<div class="zm-profile-header-operation zg-clear ">
+<div class="zm-profile-header-info-list">
+<span class="zm-profile-header-info-title">获得</span>
+<span class="zm-profile-header-user-agree"><span class="zm-profile-header-icon"></span><strong>2104</strong>赞同</span>
+<span class="zm-profile-header-user-thanks"><span class="zm-profile-header-icon"></span><strong>948</strong>感谢</span>
+
+</div>
+
+<div class="zm-profile-header-op-btns clearfix">
+
+
+<button data-follow="m:button" data-id="d0fa15c34e27aa7f7776c6f05cb0b4a6" class="zg-btn zg-btn-follow zm-rich-follow-btn">关注他</button>
+
+
+
+<a href="/inbox/5955124400" class="zg-btn-white zm-profile-header-pm-btn" id="zm-profile-header-pm-btn"><i class="zg-icon">私信</i></a>
+
+
+</div>
+
+</div>
+<div class="profile-navbar clearfix">
+<a class="item home first "
+href="/people/lao-wang-fu-zi">
+<i class="icon icon-profile-tab-home"></i><span class="hide-text">主页</span>
+</a>
+<a class="item "
+href="/people/lao-wang-fu-zi/asks">
+提问
+<span class="num">0</span>
+</a>
+<a class="item active"
+href="/people/lao-wang-fu-zi/answers">
+回答
+<span class="num">95</span>
+</a>
+<a class="item "
+href="/people/lao-wang-fu-zi/posts">
+文章
+<span class="num">3</span>
+</a>
+
+<a class="item "
+href="/people/lao-wang-fu-zi/collections">
+收藏
+<span class="num">5</span>
+</a>
+<a class="item "
+href="/people/lao-wang-fu-zi/logs">
+公共编辑
+<span class="num">0</span>
+</a>
+
+</div>
+
+</div>
+
+
+<div class="zm-profile-section-wrap zm-profile-answer-page">
+<div class="zm-profile-section-head">
+<span class="zm-profile-section-name"><a href="/people/lao-wang-fu-zi">老王夫子</a> 的回答</span>
+
+<div class="zm-profile-section-sort-wrap">
+<label>排序方式：</label>
+<a href="/people/lao-wang-fu-zi/answers?order_by=vote_num"
+class="zg-link-blue-normal"
+>赞同数</a>
+<span class="zg-bull">|</span>
+<a href="/people/lao-wang-fu-zi/answers?order_by=created"
+class="zg-link-gray"
+>回答时间</a>
+</div>
+
+</div>
+<div class="zm-profile-section-list profile-answer-wrap">
+<div id="zh-profile-list-container">
+<div id="zh-profile-answer-list-outer">
+<div id="zh-profile-answer-list">
+
+<div class="zm-item" id="mi-1465971798">
+<h2><a class="question_link" href="/question/26642356/answer/106098577" data-id="2839986">X+1/X是不是分式？</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="37902271"
+data-atoken="106098577"
+data-collapsed="0"
+data-created="1465971798"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/26642356/answer/106098577">
+<meta itemprop="answer-id" content="37902271">
+<meta itemprop="answer-url-token" content="106098577">
+<a class="zg-anchor-hidden" name="answer-37902271"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>1</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">1</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/lao-wang-fu-zi" target="_blank" data-tip="p$t$lao-wang-fu-zi"
+
+><img src="https://pic4.zhimg.com/bd1a5b76b83e123336885fbd84c70033_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$lao-wang-fu-zi"
+target="_blank" href="/people/lao-wang-fu-zi"
+>老王夫子</a>
+
+
+<span title="知乎专栏：夫子三乐；微信公众号：fuzisanle。" class="bio">，知乎专栏：夫子三乐；微信公众号：fuzisa…</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="1">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">1</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="2839986" data-action="/answer/content" data-author-name="老王夫子" data-entry-url="/question/26642356/answer/106098577">
+
+<textarea hidden class="content">一、学习是分阶段的；&lt;br&gt;二、知识是不断完善的&lt;br&gt;所以，这个问题在初中阶段一定是认为是分式的，初中的同学在作答的时候也一定要按照X+1/X是分式来作答，不用质疑。&lt;br&gt;初中对于式的定义并非完善，但一般不影响对式的认知，等高中大学继续学下去，对代数有了更深刻的理解，对于代数式的认知也会更加完善。&lt;br&gt;&lt;br&gt;另外，初中这样的题目一般都是辨析式的选择题，例如：&lt;br&gt;下列各式不是分式的是（）&lt;br&gt;A：1/x&lt;br&gt;B：x+1/x&lt;br&gt;C：1+x&lt;br&gt;D：（1+x）/x</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+一、学习是分阶段的；二、知识是不断完善的所以，这个问题在初中阶段一定是认为是分式的，初中的同学在作答的时候也一定要按照X+1/X是分式来作答，不用质疑。初中对于式的定义并非完善，但一般不影响对式的认知，等高中大学继续学下去，对代数有了更深刻的…
+
+<a href="/question/26642356/answer/106098577" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/26642356/answer/106098577">发布于 14:23</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-2839986"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>3 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-item" id="mi-1465897321">
+<h2><a class="question_link" href="/question/47234528/answer/105959472" data-id="11108070">有哪些其他多数人都不喜欢，但你就是喜欢，即使别人觉得你品位有问题，可你还是喜欢的东西？</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="37846320"
+data-atoken="105959472"
+data-collapsed="0"
+data-created="1465897321"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/47234528/answer/105959472">
+<meta itemprop="answer-id" content="37846320">
+<meta itemprop="answer-url-token" content="105959472">
+<a class="zg-anchor-hidden" name="answer-37846320"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>0</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">0</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/lao-wang-fu-zi" target="_blank" data-tip="p$t$lao-wang-fu-zi"
+
+><img src="https://pic4.zhimg.com/bd1a5b76b83e123336885fbd84c70033_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$lao-wang-fu-zi"
+target="_blank" href="/people/lao-wang-fu-zi"
+>老王夫子</a>
+
+
+<span title="知乎专栏：夫子三乐；微信公众号：fuzisanle。" class="bio">，知乎专栏：夫子三乐；微信公众号：fuzisa…</span>
+
+</div>
+
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="11108070" data-action="/answer/content" data-author-name="老王夫子" data-entry-url="/question/47234528/answer/105959472">
+
+<textarea hidden class="content">科比，很多人不喜欢，我很喜欢；&lt;br&gt;&lt;img src=&quot;https://pic1.zhimg.com/c21bb921d515ed363f0aa90dec813d10_b.jpg&quot; data-rawwidth=&quot;350&quot; data-rawheight=&quot;390&quot; class=&quot;content_image&quot; width=&quot;350&quot;&gt;&lt;br&gt;詹姆斯，很多人喜欢，就是喜欢不起来。&lt;br&gt;&lt;img src=&quot;https://pic4.zhimg.com/f84efd2cd13702b6a23aab66fee0dbbf_b.jpg&quot; data-rawwidth=&quot;300&quot; data-rawheight=&quot;360&quot; class=&quot;content_image&quot; width=&quot;300&quot;&gt;</textarea>
+
+
+<div class="zh-summary summary clearfix">
+<img src="https://pic1.zhimg.com/c21bb921d515ed363f0aa90dec813d10_200x112.jpg" data-rawwidth="350" data-rawheight="390" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic1.zhimg.com/c21bb921d515ed363f0aa90dec813d10_r.jpg">
+科比，很多人不喜欢，我很喜欢；詹姆斯，很多人喜欢，就是喜欢不起来。
+
+<a href="/question/47234528/answer/105959472" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/47234528/answer/105959472">发布于 昨天 17:42</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-11108070"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-item" id="mi-1465878501">
+<h2><a class="question_link" href="/question/47418776/answer/105904615" data-id="11182121">如何评价 2015 - 2016 赛季 NBA 总决赛勇士 VS 骑士 G5？</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="37824081"
+data-atoken="105904615"
+data-collapsed="0"
+data-created="1465878501"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/47418776/answer/105904615">
+<meta itemprop="answer-id" content="37824081">
+<meta itemprop="answer-url-token" content="105904615">
+<a class="zg-anchor-hidden" name="answer-37824081"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>1</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">1</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/lao-wang-fu-zi" target="_blank" data-tip="p$t$lao-wang-fu-zi"
+
+><img src="https://pic4.zhimg.com/bd1a5b76b83e123336885fbd84c70033_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$lao-wang-fu-zi"
+target="_blank" href="/people/lao-wang-fu-zi"
+>老王夫子</a>
+
+
+<span title="知乎专栏：夫子三乐；微信公众号：fuzisanle。" class="bio">，知乎专栏：夫子三乐；微信公众号：fuzisa…</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="1">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">1</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="11182121" data-action="/answer/content" data-author-name="老王夫子" data-entry-url="/question/47418776/answer/105904615">
+
+<textarea hidden class="content">欧文真大腿，这个系列赛真达成大叔系列了&lt;img src=&quot;https://pic2.zhimg.com/c7ba179c141c4568d61661509dbeff2d_b.jpg&quot; data-rawwidth=&quot;268&quot; data-rawheight=&quot;149&quot; class=&quot;content_image&quot; width=&quot;268&quot;&gt;</textarea>
+
+
+<div class="zh-summary summary clearfix">
+<img src="https://pic2.zhimg.com/c7ba179c141c4568d61661509dbeff2d_200x112.jpg" data-rawwidth="268" data-rawheight="149" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic2.zhimg.com/c7ba179c141c4568d61661509dbeff2d_r.jpg">
+欧文真大腿，这个系列赛真达成大叔系列了
+
+<a href="/question/47418776/answer/105904615" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/47418776/answer/105904615">发布于 昨天 12:28</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-11182121"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>1 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-item" id="mi-1465447083">
+<h2><a class="question_link" href="/question/47149345/answer/105074635" data-id="11073935">如何评价 2015 - 2016 赛季 NBA 总决赛勇士 VS 骑士 G3？</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="37489827"
+data-atoken="105074635"
+data-collapsed="0"
+data-created="1465447083"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/47149345/answer/105074635">
+<meta itemprop="answer-id" content="37489827">
+<meta itemprop="answer-url-token" content="105074635">
+<a class="zg-anchor-hidden" name="answer-37489827"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>0</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">0</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/lao-wang-fu-zi" target="_blank" data-tip="p$t$lao-wang-fu-zi"
+
+><img src="https://pic4.zhimg.com/bd1a5b76b83e123336885fbd84c70033_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$lao-wang-fu-zi"
+target="_blank" href="/people/lao-wang-fu-zi"
+>老王夫子</a>
+
+
+<span title="知乎专栏：夫子三乐；微信公众号：fuzisanle。" class="bio">，知乎专栏：夫子三乐；微信公众号：fuzisa…</span>
+
+</div>
+
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="11073935" data-action="/answer/content" data-author-name="老王夫子" data-entry-url="/question/47149345/answer/105074635">
+
+<textarea hidden class="content">&lt;blockquote&gt;OK，G2是没有机会赢的，唯一赢的机会再G3（虽然只是机会），所以还是可以分析一下骑士如何才能赢&lt;br&gt;首先是心态。我之所以会预测G3是唯一的赢的机会，理由就是已经背水一战了，如果失去这个主场，没有球队是可以在0-3的情况下翻盘的，所以骑士众将需要调动自己，詹同学带着兄弟们准备拼命吧！有这股气势再加上主场加成，心态上可以一战。不过詹和骑士太过“合理”了，如果拿不出劲头，也就一花到底了。&lt;/blockquote&gt;上个问题中&lt;a href=&quot;https://www.zhihu.com/question/47150115/answer/104624670?from=profile_answer_card&quot; class=&quot;internal&quot;&gt;2015-2016 赛季 NBA 总决赛第三场，骑士回到主场需要做到哪些才可能赢下比赛？ - 老王夫子的回答&lt;/a&gt;的回答。&lt;br&gt;果然骑士众将调整了心态，三军用命，终于打出了节奏。然后勇士心态完全不在状态，是觉得自己必赢了吗？完全没有紧张感！就这样骑士一鼓作气，勇士G3而竭，基本确定了全场的基调。&lt;br&gt;特别的说，库里和汤普森经过两场的低迷，完全没有调整过来，虽然骑士防守很凶悍，但空位的机会也不少，水花兄弟完全没有打出自己的水准，巨星就是要在团队困难的时候勇敢的站出来，承担责任，唯一感觉好一点是库里3节的小爆发，相信G4水花兄弟会做出调整，外号是水花，不能真的水啊！&lt;br&gt;不过这场比赛并不是勇士的绝境，我前面说的&lt;br&gt;&lt;blockquote&gt;骑士怎么才能赢？&lt;br&gt;一、库、汤保持G1的发挥；&lt;br&gt;二、利文斯顿、巴博萨、格林等回归平常；&lt;br&gt;三、骑士三巨头爆发；&lt;br&gt;四、骑士角色球员三分雨能开；&lt;br&gt;五、没有了啊！总的说来，骑士超常发挥、勇士沉入冰点，才能帮助骑士赢一场啊！但勇士会反扑啊！谁也挡不住啊！&lt;/blockquote&gt;这场的确可以看做骑士发挥超常，勇士沉入冰点，这场勇士的共计和防守都是如此的业余，难以想象经过雷霆的锻炼，勇士还能打出这样的攻防。&lt;br&gt;而骑士欧文和JR都打出了水平以上的比赛，詹姆斯的表现也是几场以来最好的，但是问题仍然很明显：&lt;br&gt;1、团队深度不够，主力完成了几乎全部的得分，替补基本没有得分，要知道这场勇士的防守完全不在状态，如果能拿出前面的防守强度，仅依靠主力一定会出现体力问题的，看看雷霆就知道。&lt;br&gt;2、仍然无法限制勇士的进攻，仔细观看，骑士的防守强度并没有达到雷霆的强度，勇士也有很多机会，但勇士这场进攻实在太差了，轮转也不流畅，该投进的球也投不进。&lt;br&gt;3、战术和轮转还是不够丰富，有太多回合是依靠詹姆斯、欧文和JR的单打解决的，当然都打进了，也就说不出什么问题，如果打不进呢？走向将完全不同。&lt;br&gt;总的来说，勇士的战术素养还是要更高一些，并且勇士的调整能力也超强，相信G4就会有不同的表现，加油勇士，相信你们还是会拿下系列赛！</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+OK，G2是没有机会赢的，唯一赢的机会再G3（虽然只是机会），所以还是可以分析一下骑士如何才能赢首先是心态。我之所以会预测G3是唯一的赢的机会，理由就是已经背水一战了，如果失去这个主场，没有球队是可以在0-3的情况下翻盘的，所以骑士众将需要调动自己…
+
+<a href="/question/47149345/answer/105074635" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/47149345/answer/105074635">发布于 2016-06-09</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-11073935"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-item" id="mi-1465214936">
+<h2><a class="question_link" href="/question/47150115/answer/104624670" data-id="11074258">2015-2016 赛季 NBA 总决赛第三场，骑士回到主场需要做到哪些才可能赢下比赛？</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="37308559"
+data-atoken="104624670"
+data-collapsed="0"
+data-created="1465214936"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/47150115/answer/104624670">
+<meta itemprop="answer-id" content="37308559">
+<meta itemprop="answer-url-token" content="104624670">
+<a class="zg-anchor-hidden" name="answer-37308559"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>0</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">0</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/lao-wang-fu-zi" target="_blank" data-tip="p$t$lao-wang-fu-zi"
+
+><img src="https://pic4.zhimg.com/bd1a5b76b83e123336885fbd84c70033_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$lao-wang-fu-zi"
+target="_blank" href="/people/lao-wang-fu-zi"
+>老王夫子</a>
+
+
+<span title="知乎专栏：夫子三乐；微信公众号：fuzisanle。" class="bio">，知乎专栏：夫子三乐；微信公众号：fuzisa…</span>
+
+</div>
+
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="11074258" data-action="/answer/content" data-author-name="老王夫子" data-entry-url="/question/47150115/answer/104624670">
+
+<textarea hidden class="content">谢谢邀请！&lt;br&gt;先附上我在另一个问题中回答：&lt;a href=&quot;https://www.zhihu.com/question/47053794/answer/104075563&quot; class=&quot;internal&quot;&gt;2015 - 2016 赛季 NBA 总决赛第二场，骑士该如何调整？ - 老王夫子的回答&lt;/a&gt;&lt;br&gt;&lt;blockquote&gt;先说我预测的比分4:1，骑士最多主场夺回1场。&lt;br&gt;所以呢？所以我没啥建议啊！！！！我觉得骑士必败啊！！！！！怎么调整都不行啊！！！！&lt;br&gt;完全不是一个水准啊！！！！雷霆努力赢下第一场才做好心理建设啊！！！才有信心能干翻勇士啊！！&lt;br&gt;骑士不能抢下一个主场，心态上就处于劣势啊！！地球人都知道勇士是更好的球队啊！！关键是骑士也知道，他们还相信啊！！！&lt;br&gt;关键抢下主场也没用啊！！！1-3都能翻盘啊！！！！心理过不去的坎啊！！&lt;br&gt;实力上也没办法啊！！主力最多对换啊！！替补差距太大啊！！个个都想要FMVP啊！！如狼似虎啊！！骑士没啥好争啊！！！打的再好，打赢了也是詹詹最NB啊！！其他都是配角啊！！巨星都隐没了啊！！&lt;br&gt;更BT的是，勇士两日天还没发挥啊！！库神憋着一股气啊！！老子的FMVP不想让啊！！汤神憋着劲啊，我也想要啊！！这两BT发挥了，还让骑士怎么玩啊！！&lt;/blockquote&gt;OK，G2是没有机会赢的，唯一赢的机会再G3（虽然只是机会），所以还是可以分析一下骑士如何才能赢&lt;br&gt;首先是心态。我之所以会预测G3是唯一的赢的机会，理由就是已经背水一战了，如果失去这个主场，没有球队是可以在0-3的情况下翻盘的，所以骑士众将需要调动自己，詹同学带着兄弟们准备拼命吧！有这股气势再加上主场加成，心态上可以一战。不过詹和骑士太过“合理”了，如果拿不出劲头，也就一花到底了。&lt;br&gt;然后是战术调整，每个人都知道骑士是詹姆斯的球队，很多球友都强调了弊端，但也不可忽略一个好处，只要詹想开了，他可以很快调整队伍的战术，哎，真是成也詹姆斯，敗也詹姆斯。&lt;br&gt;最后还想说：无论是谁的球迷，都应该承认这赛季勇士的强大，骑士并不足以对勇士构成真正的威胁，大家分析只是希望能让总决赛不那么难看，毕竟大家并不喜欢单方面的吊打。&lt;br&gt;雷霆，西决，真的怀念啊！</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+谢谢邀请！先附上我在另一个问题中回答：<a href="https://www.zhihu.com/question/47053794/answer/104075563" class="internal">2015 - 2016 赛季 NBA 总决赛第二场，骑士该如何调整？ - 老王夫子的回答</a>先说我预测的比分4:1，骑士最多主场夺回1场。所以呢？所以我没啥建议啊！！！！我觉得骑士必败啊！！！！！怎么调整都不行啊！！！！完全不是…
+
+<a href="/question/47150115/answer/104624670" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/47150115/answer/104624670">发布于 2016-06-06</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-11074258"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-item" id="mi-1465138546">
+<h2><a class="question_link" href="/question/24346580/answer/104467888" data-id="1920400">肖恩·利文斯顿是一名什么样的球员？</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="37245556"
+data-atoken="104467888"
+data-collapsed="0"
+data-created="1465138546"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/24346580/answer/104467888">
+<meta itemprop="answer-id" content="37245556">
+<meta itemprop="answer-url-token" content="104467888">
+<a class="zg-anchor-hidden" name="answer-37245556"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>2</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">2</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/lao-wang-fu-zi" target="_blank" data-tip="p$t$lao-wang-fu-zi"
+
+><img src="https://pic4.zhimg.com/bd1a5b76b83e123336885fbd84c70033_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$lao-wang-fu-zi"
+target="_blank" href="/people/lao-wang-fu-zi"
+>老王夫子</a>
+
+
+<span title="知乎专栏：夫子三乐；微信公众号：fuzisanle。" class="bio">，知乎专栏：夫子三乐；微信公众号：fuzisa…</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="2">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">2</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="1920400" data-action="/answer/content" data-author-name="老王夫子" data-entry-url="/question/24346580/answer/104467888">
+
+<textarea hidden class="content">&lt;p&gt;肖恩·利文斯顿——我努力奔跑，只为追上曾经的自己！&lt;/p&gt;&lt;p&gt;2004年NBA选秀第4名，入选洛杉矶快船，这一年状元是德怀特·霍华德&lt;/p&gt;&lt;img src=&quot;https://pic1.zhimg.com/f1ef4ee9862fb6fed86b2b3372a52530_b.jpg&quot; data-rawwidth=&quot;450&quot; data-rawheight=&quot;678&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;450&quot; data-original=&quot;https://pic1.zhimg.com/f1ef4ee9862fb6fed86b2b3372a52530_r.jpg&quot;&gt;&lt;br&gt;&lt;p&gt;2004年到2007年之间，利文斯顿场均贡献7.4分4.8次助攻3.1个篮板，被称为“未来的魔术师”，可以说前途无量；&lt;/p&gt;&lt;p&gt;2007年2月，在与山猫的比赛中，利文斯顿为了躲避菲尔顿，仓促落地，左膝剧烈弯曲，随后向内崩断，是的，他腿断了——对于篮球运动员，&quot;没有更坏的了&quot;。&lt;/p&gt;&lt;img src=&quot;https://pic1.zhimg.com/e4466320e46880ce4bab63e454466704_b.jpg&quot; data-rawwidth=&quot;500&quot; data-rawheight=&quot;335&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;500&quot; data-original=&quot;https://pic1.zhimg.com/e4466320e46880ce4bab63e454466704_r.jpg&quot;&gt;&lt;br&gt;&lt;p&gt;事实上，这次受伤被称为NBA历史上最严重受伤之一，由于受伤画面太过于残酷，NBA联盟甚至要求YouTube删除了整段视频，网络上也仅留存一些图片，而利文斯顿更是面临截肢的风险；&lt;/p&gt;&lt;img src=&quot;https://pic3.zhimg.com/f1495ba865100813ff58556320505aea_b.jpg&quot; data-rawwidth=&quot;576&quot; data-rawheight=&quot;324&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;576&quot; data-original=&quot;https://pic3.zhimg.com/f1495ba865100813ff58556320505aea_r.jpg&quot;&gt;&lt;br&gt;&lt;p&gt;经受了正常人无法忍受的折磨，利文斯顿通过各种方式锻炼自己的伤腿，跑步、骑车、游泳，终于他又可以回到篮球场上训练，这时距离受伤已经过去了一年半的时间。&lt;/p&gt;&lt;p&gt;然而，曾经的天之骄子，经过伤痛的洗礼，已经失去了“魔术师”的魔法，他开始辗转各个球队：&lt;/p&gt;&lt;img src=&quot;https://pic2.zhimg.com/1c6e5a3143dc0e997afd6775fc50fc45_b.jpg&quot; data-rawwidth=&quot;230&quot; data-rawheight=&quot;300&quot; class=&quot;content_image&quot; width=&quot;230&quot;&gt;&lt;br&gt;&lt;p&gt;2008年10月，迈阿密热火；&lt;/p&gt;&lt;p&gt;2009年1月，交易至灰熊，立刻被裁掉；&lt;/p&gt;&lt;p&gt;2009年3月，签约雷霆，12月被裁掉；&lt;/p&gt;&lt;p&gt;2010年2月，来到奇才&lt;/p&gt;&lt;p&gt;同年夏天，签约山猫&lt;/p&gt;&lt;p&gt;2011年6月，交易至雄鹿；&lt;/p&gt;&lt;p&gt;2012年6月，交易至火箭，10月被裁；&lt;/p&gt;&lt;p&gt;同年11月，签约奇才，12月被裁；&lt;/p&gt;&lt;p&gt;同年12月，签约骑士，这时他可以得到6.1分3.4次助攻2.3个篮板，终于赶上了新秀期的表现，而此时距离他加盟NBA已经过去了8年；&lt;/p&gt;&lt;p&gt;2013年7月，签约网队；&lt;/p&gt;&lt;p&gt;2014年7月，签约金州勇士，14—15赛季随队获得NBA总冠军；&lt;/p&gt;&lt;p&gt;2016年6月3日，勇士主场对阵骑士，利文斯顿10投8中，拿下全队最高20分，创下个人季后赛得分新高，成为G1战胜骑士的关键因素。&lt;/p&gt;&lt;img src=&quot;https://pic1.zhimg.com/2a646d625ee144d92c077d51c817d2e4_b.jpg&quot; data-rawwidth=&quot;570&quot; data-rawheight=&quot;381&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;570&quot; data-original=&quot;https://pic1.zhimg.com/2a646d625ee144d92c077d51c817d2e4_r.jpg&quot;&gt;&lt;p&gt;漂泊、流浪，并没有消磨利文斯顿的意志，当球队需要，仍然可以化身为那个被寄予厚望，可以信赖的天才少年；&lt;/p&gt;&lt;p&gt;在他身上，你看不到屈服，看不到妥协，命运给予他的挫折磨难，更加磨练了他的意志，永不放弃，终成传奇！&lt;/p&gt;&lt;img src=&quot;https://pic2.zhimg.com/47c6ab81204fc0302a60ffaf3df733f1_b.jpg&quot; data-rawwidth=&quot;575&quot; data-rawheight=&quot;319&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;575&quot; data-original=&quot;https://pic2.zhimg.com/47c6ab81204fc0302a60ffaf3df733f1_r.jpg&quot;&gt;</textarea>
+
+
+<div class="zh-summary summary clearfix">
+<img src="https://pic1.zhimg.com/f1ef4ee9862fb6fed86b2b3372a52530_200x112.jpg" data-rawwidth="450" data-rawheight="678" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic1.zhimg.com/f1ef4ee9862fb6fed86b2b3372a52530_r.jpg">
+肖恩·利文斯顿——我努力奔跑，只为追上曾经的自己！2004年NBA选秀第4名，入选洛杉矶快船，这一年状元是德怀特·霍华德2004年到2007年之间，利文斯顿场均贡献7.4分4.8次助攻3.1个篮板，被称为“未来的魔术师”，可以说前途无量；2007年2月，在与山猫的比赛…
+
+<a href="/question/24346580/answer/104467888" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2016-06-05" target="_blank" href="/question/24346580/answer/104467888">编辑于 2016-06-05</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-1920400"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>1 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-item" id="mi-1464928156">
+<h2><a class="question_link" href="/question/47053794/answer/104075563" data-id="11035577">2015 - 2016 赛季 NBA 总决赛第二场，骑士该如何调整？</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="37088245"
+data-atoken="104075563"
+data-collapsed="0"
+data-created="1464928156"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/47053794/answer/104075563">
+<meta itemprop="answer-id" content="37088245">
+<meta itemprop="answer-url-token" content="104075563">
+<a class="zg-anchor-hidden" name="answer-37088245"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>0</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">0</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/lao-wang-fu-zi" target="_blank" data-tip="p$t$lao-wang-fu-zi"
+
+><img src="https://pic4.zhimg.com/bd1a5b76b83e123336885fbd84c70033_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$lao-wang-fu-zi"
+target="_blank" href="/people/lao-wang-fu-zi"
+>老王夫子</a>
+
+
+<span title="知乎专栏：夫子三乐；微信公众号：fuzisanle。" class="bio">，知乎专栏：夫子三乐；微信公众号：fuzisa…</span>
+
+</div>
+
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="11035577" data-action="/answer/content" data-author-name="老王夫子" data-entry-url="/question/47053794/answer/104075563">
+
+<textarea hidden class="content">谢谢邀请。&lt;br&gt;先说我预测的比分4:1，骑士最多主场夺回1场。&lt;br&gt;所以呢？所以我没啥建议啊！！！！我觉得骑士必败啊！！！！！怎么调整都不行啊！！！！&lt;br&gt;完全不是一个水准啊！！！！雷霆努力赢下第一场才做好心理建设啊！！！才有信心能干翻勇士啊！！&lt;br&gt;骑士不能抢下一个主场，心态上就处于劣势啊！！地球人都知道勇士是更好的球队啊！！关键是骑士也知道，他们还相信啊！！！&lt;br&gt;关键抢下主场也没用啊！！！1-3都能翻盘啊！！！！心理过不去的坎啊！！&lt;br&gt;实力上也没办法啊！！主力最多对换啊！！替补差距太大啊！！个个都想要FMVP啊！！如狼似虎啊！！骑士没啥好争啊！！！打的再好，打赢了也是詹詹最NB啊！！其他都是配角啊！！巨星都隐没了啊！！&lt;br&gt;更BT的是，勇士两日天还没发挥啊！！库神憋着一股气啊！！老子的FMVP不想让啊！！汤神憋着劲啊，我也想要啊！！这两BT发挥了，还让骑士怎么玩啊！！&lt;br&gt;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~&lt;br&gt;骑士怎么才能赢？&lt;br&gt;一、库、汤保持G1的发挥；&lt;br&gt;二、利文斯顿、巴博萨、格林等回归平常；&lt;br&gt;三、骑士三巨头爆发；&lt;br&gt;四、骑士角色球员三分雨能开；&lt;br&gt;五、没有了啊！总的说来，骑士超常发挥、勇士沉入冰点，才能帮助骑士赢一场啊！但勇士会反扑啊！谁也挡不住啊！&lt;br&gt;恭喜勇士再夺总冠军啊！！</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+谢谢邀请。先说我预测的比分4:1，骑士最多主场夺回1场。所以呢？所以我没啥建议啊！！！！我觉得骑士必败啊！！！！！怎么调整都不行啊！！！！完全不是一个水准啊！！！！雷霆努力赢下第一场才做好心理建设啊！！！才有信心能干翻勇士啊！！骑士不能抢下一…
+
+<a href="/question/47053794/answer/104075563" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2016-06-03" target="_blank" href="/question/47053794/answer/104075563">编辑于 2016-06-03</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-11035577"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>2 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-item" id="mi-1464926269">
+<h2><a class="question_link" href="/question/46943058/answer/104070801" data-id="10991140">如何评价 2015 - 2016 赛季 NBA 总决赛勇士 VS 骑士 G1？</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="37086317"
+data-atoken="104070801"
+data-collapsed="0"
+data-created="1464926269"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/46943058/answer/104070801">
+<meta itemprop="answer-id" content="37086317">
+<meta itemprop="answer-url-token" content="104070801">
+<a class="zg-anchor-hidden" name="answer-37086317"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>0</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">0</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/lao-wang-fu-zi" target="_blank" data-tip="p$t$lao-wang-fu-zi"
+
+><img src="https://pic4.zhimg.com/bd1a5b76b83e123336885fbd84c70033_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$lao-wang-fu-zi"
+target="_blank" href="/people/lao-wang-fu-zi"
+>老王夫子</a>
+
+
+<span title="知乎专栏：夫子三乐；微信公众号：fuzisanle。" class="bio">，知乎专栏：夫子三乐；微信公众号：fuzisa…</span>
+
+</div>
+
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="10991140" data-action="/answer/content" data-author-name="老王夫子" data-entry-url="/question/46943058/answer/104070801">
+
+<textarea hidden class="content">NBA应该调整赛制了！！&lt;br&gt;我建议按照常规赛成绩做大排名，选出16强，然后奇数排名一组，偶数排名一组，我相信季后赛会更好看的！</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+NBA应该调整赛制了！！我建议按照常规赛成绩做大排名，选出16强，然后奇数排名一组，偶数排名一组，我相信季后赛会更好看的！
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/46943058/answer/104070801">发布于 2016-06-03</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-10991140"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-item" id="mi-1461687647">
+<h2><a class="question_link" href="/question/44571462/answer/97493540" data-id="10040439">巅峰时期的科比防得住自己吗？</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="34444195"
+data-atoken="97493540"
+data-collapsed="0"
+data-created="1461687647"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/44571462/answer/97493540">
+<meta itemprop="answer-id" content="34444195">
+<meta itemprop="answer-url-token" content="97493540">
+<a class="zg-anchor-hidden" name="answer-34444195"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>0</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">0</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/lao-wang-fu-zi" target="_blank" data-tip="p$t$lao-wang-fu-zi"
+
+><img src="https://pic4.zhimg.com/bd1a5b76b83e123336885fbd84c70033_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$lao-wang-fu-zi"
+target="_blank" href="/people/lao-wang-fu-zi"
+>老王夫子</a>
+
+
+<span title="知乎专栏：夫子三乐；微信公众号：fuzisanle。" class="bio">，知乎专栏：夫子三乐；微信公众号：fuzisa…</span>
+
+</div>
+
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="10040439" data-action="/answer/content" data-author-name="老王夫子" data-entry-url="/question/44571462/answer/97493540">
+
+<textarea hidden class="content">不能，巅峰期进攻无解</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+不能，巅峰期进攻无解
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2016-04-27" target="_blank" href="/question/44571462/answer/97493540">编辑于 2016-04-27</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-10040439"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-item" id="mi-1461130638">
+<h2><a class="question_link" href="/question/43596490/answer/96025221" data-id="9648024">为什么NBA中没有球队五上五下使用两套固定阵容？</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="33853203"
+data-atoken="96025221"
+data-collapsed="0"
+data-created="1461130638"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/43596490/answer/96025221">
+<meta itemprop="answer-id" content="33853203">
+<meta itemprop="answer-url-token" content="96025221">
+<a class="zg-anchor-hidden" name="answer-33853203"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>1</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">1</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/lao-wang-fu-zi" target="_blank" data-tip="p$t$lao-wang-fu-zi"
+
+><img src="https://pic4.zhimg.com/bd1a5b76b83e123336885fbd84c70033_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$lao-wang-fu-zi"
+target="_blank" href="/people/lao-wang-fu-zi"
+>老王夫子</a>
+
+
+<span title="知乎专栏：夫子三乐；微信公众号：fuzisanle。" class="bio">，知乎专栏：夫子三乐；微信公众号：fuzisa…</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="1">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">1</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="9648024" data-action="/answer/content" data-author-name="老王夫子" data-entry-url="/question/43596490/answer/96025221">
+
+<textarea hidden class="content">个人认为是因为球员能力值的差异，更重要的是球员能力的差异性不够高，多样性不足&lt;br&gt;如果是打dota的话，可以很容易组成若干套阵容，主要原因是各个英雄的差异性非常大，每一个英雄都有不同的技能，不同英雄之间的组合会产生不同的化学反应，不同的组合又催生不同的战略战术！相比而言，打篮球的技能实在过于少，投射（2、3分）、传球、篮板、封盖、抢断，每个球员都具有相同的技能树，只是技能等级有差异，这样一来可产生的组合实在有限！&lt;br&gt;而一个球队只有12个人名单，在工资帽体系下，球队的人员配置没那么理想化，就不太可能形成2套阵容。&lt;br&gt;但说回来，五上五下还是见过的，某届全明星，再比如某个伯伯的围棋~~~</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+个人认为是因为球员能力值的差异，更重要的是球员能力的差异性不够高，多样性不足如果是打dota的话，可以很容易组成若干套阵容，主要原因是各个英雄的差异性非常大，每一个英雄都有不同的技能，不同英雄之间的组合会产生不同的化学反应，不同的组合又催生不…
+
+<a href="/question/43596490/answer/96025221" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2016-04-20" target="_blank" href="/question/43596490/answer/96025221">编辑于 2016-04-20</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-9648024"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-item" id="mi-1458183392">
+<h2><a class="question_link" href="/question/41373345/answer/91098325" data-id="8756541">如何看待撞翻大众朗逸的比亚迪唐车主称朗逸是他撞的第 7 辆车？</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="31876867"
+data-atoken="91098325"
+data-collapsed="0"
+data-created="1458183392"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/41373345/answer/91098325">
+<meta itemprop="answer-id" content="31876867">
+<meta itemprop="answer-url-token" content="91098325">
+<a class="zg-anchor-hidden" name="answer-31876867"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>0</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">0</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/lao-wang-fu-zi" target="_blank" data-tip="p$t$lao-wang-fu-zi"
+
+><img src="https://pic4.zhimg.com/bd1a5b76b83e123336885fbd84c70033_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$lao-wang-fu-zi"
+target="_blank" href="/people/lao-wang-fu-zi"
+>老王夫子</a>
+
+
+<span title="知乎专栏：夫子三乐；微信公众号：fuzisanle。" class="bio">，知乎专栏：夫子三乐；微信公众号：fuzisa…</span>
+
+</div>
+
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="8756541" data-action="/answer/content" data-author-name="老王夫子" data-entry-url="/question/41373345/answer/91098325">
+
+<textarea hidden class="content">谢谢邀请！&lt;br&gt;但真的不想回答这样的问题，有啥可争辩的，一切按法律不就好了。无论BYD车主怎么说，最后还是对方违法变道啊！&lt;br&gt;另外大家设想一种极端情况，有个人天生反应慢一秒，对方如果提前打好转向，他做好准备还能反应，但如果对方强行并过来，他就无法反应一定会撞上去，对方全责，过了很久，他出来说“我已经撞过100辆了，都是对方全责。”请问如何评价？&lt;br&gt;我不是强调BYD一定是正确（在这里正确和守法不对等，还要考虑人命和安全），但只要每一起事情发生了，就应该按照法律来办，即便是七次，那在每一次中他也是守法的一方，对方也是违法变道！而故意造成肇事的想法太过于一厢情愿了，智者所不取。&lt;br&gt;另外，我想说如果是我身边人是BYD车主，我会第一时间问他的身体状况，但如果他跑过来和我说：“对方太**，我到现在撞了7个，都是对方全责，我多牛*！”好吧，我想以后我绝不会坐他的车！也会建议身边的朋友不要坐他的车，危险！&lt;br&gt;最后，并没人邀请，不过你有证据吗？</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+谢谢邀请！但真的不想回答这样的问题，有啥可争辩的，一切按法律不就好了。无论BYD车主怎么说，最后还是对方违法变道啊！另外大家设想一种极端情况，有个人天生反应慢一秒，对方如果提前打好转向，他做好准备还能反应，但如果对方强行并过来，他就无法反应…
+
+<a href="/question/41373345/answer/91098325" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2016-03-17" target="_blank" href="/question/41373345/answer/91098325">编辑于 2016-03-17</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-8756541"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>2 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-item" id="mi-1458011576">
+<h2><a class="question_link" href="/question/22260291/answer/90786703" data-id="1085051">初中数学中的几何部分怎样学习？</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="31751976"
+data-atoken="90786703"
+data-collapsed="0"
+data-created="1458011576"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/22260291/answer/90786703">
+<meta itemprop="answer-id" content="31751976">
+<meta itemprop="answer-url-token" content="90786703">
+<a class="zg-anchor-hidden" name="answer-31751976"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>13</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">13</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/lao-wang-fu-zi" target="_blank" data-tip="p$t$lao-wang-fu-zi"
+
+><img src="https://pic4.zhimg.com/bd1a5b76b83e123336885fbd84c70033_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$lao-wang-fu-zi"
+target="_blank" href="/people/lao-wang-fu-zi"
+>老王夫子</a>
+
+
+<span title="知乎专栏：夫子三乐；微信公众号：fuzisanle。" class="bio">，知乎专栏：夫子三乐；微信公众号：fuzisa…</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="13">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">13</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="1085051" data-action="/answer/content" data-author-name="老王夫子" data-entry-url="/question/22260291/answer/90786703">
+
+<textarea hidden class="content">就从题主给的这道题入手，简单说一下碰到几何题如何思考。&lt;br&gt;一、一定要看懂题。读题，明确条件这是基本的，还在读题的基础上做出一定的分析和思考，更深一点是明白出题人的意图。比如这道题，当你读到梯形并且AB=CD，需要想到什么？ok，等腰梯形，但止步与此是不行的，这个时候脑子中要过一遍等腰梯形的各种性质，比如底角相等，比如对角线相等，比如对角线分出两个等腰三角形，这些是学习的时候就应该掌握的基础，每做一道相关的题目都要能快速的过一遍，一个是熟悉知识、另一个是能够调用相关资源解决问题。&lt;br&gt;相同的看到60度应该能意识到这里有等边三角形。建议题主每读一道题都能做出上述思考，并长期坚持，你会发现对解决各种难题会很有帮助。&lt;br&gt;二、要对常见的模型有认识，会对常见的考点有了解，我想对题主来说需要做一些记忆。拿这个题来说，就需要考虑中点到底能有什么用，如何去用？初中阶段无非四种：等腰三角形三线合一、倍长中线构造全等、直角三角形斜边中线、中位线。这里就需要从这几点思考。&lt;br&gt;三、要尝试。经过了上述2步，其实仍然没有解决问题，但已经做好了准备，那么接下来到底该怎么做？去试吧！思考是什么？对多数人来说就是尝试、错误、反复尝试、正确这样一个过程，不要去追求一下子得到答案，把每一个方法都试试，一定会有一个方法可以解决问题，比如这道题，连接BE之后有三线合一，然后用斜边中线，但如果没想到就要去试前面的各种方法了，比如两个中点，是不是能构造中位线呢？比如能不能倍长中线呢？有的可以成功，有的会失败，但经过尝试之后，哪怕你没有解决问题，你对问题的思考也是非常深入的，提升也是会非常快的。</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+就从题主给的这道题入手，简单说一下碰到几何题如何思考。一、一定要看懂题。读题，明确条件这是基本的，还在读题的基础上做出一定的分析和思考，更深一点是明白出题人的意图。比如这道题，当你读到梯形并且AB=CD，需要想到什么？ok，等腰梯形，但止步与此…
+
+<a href="/question/22260291/answer/90786703" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/22260291/answer/90786703">发布于 2016-03-15</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-1085051"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>1 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-item" id="mi-1457670281">
+<h2><a class="question_link" href="/question/41246968/answer/90220684" data-id="8706073">人类如何战胜alphago？</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="31524981"
+data-atoken="90220684"
+data-collapsed="0"
+data-created="1457670281"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/41246968/answer/90220684">
+<meta itemprop="answer-id" content="31524981">
+<meta itemprop="answer-url-token" content="90220684">
+<a class="zg-anchor-hidden" name="answer-31524981"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>1</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">1</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/lao-wang-fu-zi" target="_blank" data-tip="p$t$lao-wang-fu-zi"
+
+><img src="https://pic4.zhimg.com/bd1a5b76b83e123336885fbd84c70033_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$lao-wang-fu-zi"
+target="_blank" href="/people/lao-wang-fu-zi"
+>老王夫子</a>
+
+
+<span title="知乎专栏：夫子三乐；微信公众号：fuzisanle。" class="bio">，知乎专栏：夫子三乐；微信公众号：fuzisa…</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="1">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">1</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="8706073" data-action="/answer/content" data-author-name="老王夫子" data-entry-url="/question/41246968/answer/90220684">
+
+<textarea hidden class="content">首先还不能说α已经战胜了人类，毕竟还有那么多不服的，就是说柯洁~&lt;br&gt;另外，战胜还是比较容易的，但想要什么样的胜利呢？&lt;br&gt;想要测试αgo的极限并不困难，只要下让子棋就可以了，如果让先是不能战胜α的，那么就让2子、让4子、让9子，总不至于让181子吧，由于围棋本身的限制总会找到一个人类能战胜α的情况，不过这算胜利不？&lt;br&gt;那么或者修改规则呢？&lt;br&gt;修改棋盘大小呢？我相信如果把棋盘再扩大一倍，计算机的计算量将大到无法可想，但人类依然可以依靠棋感、味道等玄之又玄的感觉占据上风，但这是不是胜利呢？事实上，19*19人类都已经无法掌控了&lt;br&gt;所以还是想着提升自身才是正理，我在另一个问题中写的：&lt;br&gt;&lt;blockquote&gt;说到底还是人类自己的选择，谁让人们在AI上不断突破，而在生物工程，人自身的研究上停步不前呢？说句对人类不敬的话，是不是适当放开科学上人权的范围呢？对人类自身的研究和改造是不是应该更加把劲呢？拿人体做实验这种事……果然科学应该是反人性的，不过如果放开了发展，不见得不能产生蜘蛛侠、超人之类的，想象一下，人工智能和人体科技同步飞越，超人和变形金刚争霸，Xman和钢铁侠打架，各种妖魔鬼怪乱飞，是不是开心的不行，哈哈哈哈~&lt;/blockquote&gt;</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+首先还不能说α已经战胜了人类，毕竟还有那么多不服的，就是说柯洁~另外，战胜还是比较容易的，但想要什么样的胜利呢？想要测试αgo的极限并不困难，只要下让子棋就可以了，如果让先是不能战胜α的，那么就让2子、让4子、让9子，总不至于让181子吧，由于围…
+
+<a href="/question/41246968/answer/90220684" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/41246968/answer/90220684">发布于 2016-03-11</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-8706073"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-item" id="mi-1457512159">
+<h2><a class="question_link" href="/question/41171543/answer/89936722" data-id="8675971">如何评价第一局比赛 AlphaGo 战胜李世石？</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="31410945"
+data-atoken="89936722"
+data-collapsed="0"
+data-created="1457512159"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/41171543/answer/89936722">
+<meta itemprop="answer-id" content="31410945">
+<meta itemprop="answer-url-token" content="89936722">
+<a class="zg-anchor-hidden" name="answer-31410945"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>1</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">1</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/lao-wang-fu-zi" target="_blank" data-tip="p$t$lao-wang-fu-zi"
+
+><img src="https://pic4.zhimg.com/bd1a5b76b83e123336885fbd84c70033_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$lao-wang-fu-zi"
+target="_blank" href="/people/lao-wang-fu-zi"
+>老王夫子</a>
+
+
+<span title="知乎专栏：夫子三乐；微信公众号：fuzisanle。" class="bio">，知乎专栏：夫子三乐；微信公众号：fuzisa…</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="1">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">1</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="8675971" data-action="/answer/content" data-author-name="老王夫子" data-entry-url="/question/41171543/answer/89936722">
+
+<textarea hidden class="content">我预测的结果是4:1李世石胜，输的一局是第一局或后面某一局，第一局是因为不熟悉而输掉然后碾压，而后面会输一场则是李世石犯错或疲劳或压力造成的失利。&lt;br&gt;看完第一场比赛，我感觉可能要3:2了，仍然李世石胜，毕竟压力陡增，但仍可以看出目前α的实力仍略逊一筹，不过已经达到和顶尖高手一争高下了。若是在比赛之间α又涨棋了……&lt;br&gt;——————与围棋无关的分割线——————&lt;br&gt;不得不感叹呀，人工智能已经这么厉害了，曾几何时，AI能够在围棋上战胜人类根本就不可能，机会都没有，而现在，已经可以与顶尖高手争锋了 &lt;br&gt;比赛之前，我还和同事说，也许马上人工智能就要代替我们来给孩子们上课了，想象一下一个长成什么样子先不管，但知识储量极其丰富的“老师”给孩子们灌输各种知识（也许那个时候直接传输给学生呢），学生的任何问题秒答、秒解，又不会有各种人类的恶习，要是还能针对孩子特点进行针对性教学，简直完美！不过转念一想，各种互联网教育，网上授课、教育类APP都是奔着这个方向去的，只是距离理想还比较遥远。不过每次想想自己要失业，被一个铁盒子代替，真实各种开心的不行，哈哈哈哈~&lt;br&gt;话说回来，如果人工智能一直发展下去，直到有一天超越了人类，那么人类该如何自处呢？从目前来看，人本身的进化速度和AI的进化速度差的太远了，而不进步就会面临淘汰，地球就不需要人类这种浪费资源、破坏环境的“寄生虫”，只剩下智能机器建设和谐社会，想想就开心的不行，哈哈哈哈~&lt;br&gt;说到底还是人类自己的选择，谁让人们在AI上不断突破，而在生物工程，人自身的研究上停步不前呢？说句对人类不敬的话，是不是适当放开科学上人权的范围呢？对人类自身的研究和改造是不是应该更加把劲呢？拿人体做实验这种事……果然科学应该是反人性的，不过如果放开了发展，不见得不能产生蜘蛛侠、超人之类的，想象一下，人工智能和人体科技同步飞越，超人和变形金刚争霸，Xman和钢铁侠打架，各种妖魔鬼怪乱飞，是不是开心的不行，哈哈哈哈~&lt;br&gt;——————回到围棋的分割线——————&lt;br&gt;我想若干年后，围棋高手们争夺人类世界的冠军后，可以增加一个AI挑战赛，能被AI让9子的就是世界一流高手，能被AI让4子就是绝世天才，所有围棋人的梦想就是能和α、β、γ之类的分先对战，这一天快到来了！</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+我预测的结果是4:1李世石胜，输的一局是第一局或后面某一局，第一局是因为不熟悉而输掉然后碾压，而后面会输一场则是李世石犯错或疲劳或压力造成的失利。看完第一场比赛，我感觉可能要3:2了，仍然李世石胜，毕竟压力陡增，但仍可以看出目前α的实力仍略逊一…
+
+<a href="/question/41171543/answer/89936722" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/41171543/answer/89936722">发布于 2016-03-09</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-8675971"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-item" id="mi-1450755973">
+<h2><a class="question_link" href="/question/38749478/answer/77966017" data-id="7707117">为什么剧中人物一般都可以猜到他的未来～而现实中周边的人却看不透？</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="26612990"
+data-atoken="77966017"
+data-collapsed="0"
+data-created="1450755973"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/38749478/answer/77966017">
+<meta itemprop="answer-id" content="26612990">
+<meta itemprop="answer-url-token" content="77966017">
+<a class="zg-anchor-hidden" name="answer-26612990"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>0</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">0</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/lao-wang-fu-zi" target="_blank" data-tip="p$t$lao-wang-fu-zi"
+
+><img src="https://pic4.zhimg.com/bd1a5b76b83e123336885fbd84c70033_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$lao-wang-fu-zi"
+target="_blank" href="/people/lao-wang-fu-zi"
+>老王夫子</a>
+
+
+<span title="知乎专栏：夫子三乐；微信公众号：fuzisanle。" class="bio">，知乎专栏：夫子三乐；微信公众号：fuzisa…</span>
+
+</div>
+
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="7707117" data-action="/answer/content" data-author-name="老王夫子" data-entry-url="/question/38749478/answer/77966017">
+
+<textarea hidden class="content">谢谢邀请。个人认为有三个原因：&lt;br&gt;一、生活本来就比演戏更精彩，更复杂。&lt;br&gt;二、片子拍出来就是让大家理解的，恨不得心理活动都说出来，而不想让人理解的，要么死了要么成大师了&lt;br&gt;三、编剧太弱了，剧情已成模式，了解的多一点就知道后续的安排，或推理出后续安排&lt;br&gt;四、观众太聪明了，早已看穿了一切&lt;br&gt;over</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+谢谢邀请。个人认为有三个原因：一、生活本来就比演戏更精彩，更复杂。二、片子拍出来就是让大家理解的，恨不得心理活动都说出来，而不想让人理解的，要么死了要么成大师了三、编剧太弱了，剧情已成模式，了解的多一点就知道后续的安排，或推理出后续安排四…
+
+<a href="/question/38749478/answer/77966017" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2015-12-22" target="_blank" href="/question/38749478/answer/77966017">编辑于 2015-12-22</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-7707117"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>1 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-item" id="mi-1449564398">
+<h2><a class="question_link" href="/question/38300001/answer/75827350" data-id="7527299">如何看待渔民帮捞尸体要 1.8 万？</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="25755027"
+data-atoken="75827350"
+data-collapsed="0"
+data-created="1449564398"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/38300001/answer/75827350">
+<meta itemprop="answer-id" content="25755027">
+<meta itemprop="answer-url-token" content="75827350">
+<a class="zg-anchor-hidden" name="answer-25755027"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>204</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">204</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/lao-wang-fu-zi" target="_blank" data-tip="p$t$lao-wang-fu-zi"
+
+><img src="https://pic4.zhimg.com/bd1a5b76b83e123336885fbd84c70033_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$lao-wang-fu-zi"
+target="_blank" href="/people/lao-wang-fu-zi"
+>老王夫子</a>
+
+
+<span title="知乎专栏：夫子三乐；微信公众号：fuzisanle。" class="bio">，知乎专栏：夫子三乐；微信公众号：fuzisa…</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="204">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">204</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="7527299" data-action="/answer/content" data-author-name="老王夫子" data-entry-url="/question/38300001/answer/75827350">
+
+<textarea hidden class="content">看了各位的回答，我感到很抱歉，我已经跟不上时代了，我对自己的思想建设脱离的主流价值观，我竟然还天真认为“捞尸体”收费这些人应该被谴责（注意是谴责，不是抓起来），呵呵！&lt;br&gt;&lt;br&gt;君子爱财，取之有道，什么时候国人已经堕落到需要依靠捞尸体赚钱了？什么时候国人的心已经冰冷到尸身水中尚温，就在旁边冷静的和死者亲人讨价还价，而不给钱则不捞的地步？还一手交钱，一手捞尸，你MD有营业执照，交个人所得税吗？滑天下之大稽！&lt;br&gt;&lt;br&gt;不是什么道德至上，也不想圣母，判断一件事情是否道德很简单，就是把自己放入同一个情景，自己心理上是否能接受，再把周围人带入到场景中，看是否能接受。不好意思，我一想到有一天自己或亲人落到河里，有个人拿着根捞尸杆对着你说“早捞早超生！”，我只感到骨子里的冰冷，内心深处的恐惧，整个人都颤抖。&lt;br&gt;&lt;br&gt;最后想说，永远不要低估金钱的诱惑力，钱眼儿里藏着魔鬼！今天可以帮忙捞尸体赚钱，明天就可以看着落水的人挣扎不施援手等着家属来要钱，后天就可以把人扔下去再和你议价，所以这股恶火还是还是狠狠掐灭，死死的摁到土里才好。&lt;br&gt;&lt;br&gt;————————分割线——————&lt;br&gt;最后给个建议吧，如果真的有人落水了，呼救、报警吧，如果笃定人已死了，等警察来处理吧。我并不相信出人命了警察还不到，如果警察默许、警察不作为，那么不是产业链，没有关系网，有人信吗？</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+看了各位的回答，我感到很抱歉，我已经跟不上时代了，我对自己的思想建设脱离的主流价值观，我竟然还天真认为“捞尸体”收费这些人应该被谴责（注意是谴责，不是抓起来），呵呵！君子爱财，取之有道，什么时候国人已经堕落到需要依靠捞尸体赚钱了？什么时候…
+
+<a href="/question/38300001/answer/75827350" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2015-12-08" target="_blank" href="/question/38300001/answer/75827350">编辑于 2015-12-08</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-7527299"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>54 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-item" id="mi-1448606477">
+<h2><a class="question_link" href="/question/37293178/answer/74188748" data-id="7124308">如果外星人命令地球人摧毁一个国家，否则让人类灭绝，人类会怎么做？</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="25098834"
+data-atoken="74188748"
+data-collapsed="0"
+data-created="1448606477"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/37293178/answer/74188748">
+<meta itemprop="answer-id" content="25098834">
+<meta itemprop="answer-url-token" content="74188748">
+<a class="zg-anchor-hidden" name="answer-25098834"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>0</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">0</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/lao-wang-fu-zi" target="_blank" data-tip="p$t$lao-wang-fu-zi"
+
+><img src="https://pic4.zhimg.com/bd1a5b76b83e123336885fbd84c70033_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$lao-wang-fu-zi"
+target="_blank" href="/people/lao-wang-fu-zi"
+>老王夫子</a>
+
+
+<span title="知乎专栏：夫子三乐；微信公众号：fuzisanle。" class="bio">，知乎专栏：夫子三乐；微信公众号：fuzisa…</span>
+
+</div>
+
+<div class="zm-item-vote-info empty" data-votecount="0">
+
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="7124308" data-action="/answer/content" data-author-name="老王夫子" data-entry-url="/question/37293178/answer/74188748">
+
+<textarea hidden class="content">大家看过话剧《贵妇还乡》吗？&lt;br&gt;10亿美元，一条人命。&lt;br&gt;10亿美元和毁灭地球？&lt;br&gt;当然不会亲自动手，但这个国家的灭亡几乎可以肯定。&lt;br&gt;人（类）从不缺乏壮士断腕的勇气，呵呵！</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+大家看过话剧《贵妇还乡》吗？10亿美元，一条人命。10亿美元和毁灭地球？当然不会亲自动手，但这个国家的灭亡几乎可以肯定。人（类）从不缺乏壮士断腕的勇气，呵呵！
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/37293178/answer/74188748">发布于 2015-11-27</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-7124308"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-item" id="mi-1448439969">
+<h2><a class="question_link" href="/question/37853060/answer/73886950" data-id="7348449">有个懂几何分析的女朋友是怎样一番体验？</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="24978054"
+data-atoken="73886950"
+data-collapsed="0"
+data-created="1448439969"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/37853060/answer/73886950">
+<meta itemprop="answer-id" content="24978054">
+<meta itemprop="answer-url-token" content="73886950">
+<a class="zg-anchor-hidden" name="answer-24978054"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>3</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">3</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/lao-wang-fu-zi" target="_blank" data-tip="p$t$lao-wang-fu-zi"
+
+><img src="https://pic4.zhimg.com/bd1a5b76b83e123336885fbd84c70033_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$lao-wang-fu-zi"
+target="_blank" href="/people/lao-wang-fu-zi"
+>老王夫子</a>
+
+
+<span title="知乎专栏：夫子三乐；微信公众号：fuzisanle。" class="bio">，知乎专栏：夫子三乐；微信公众号：fuzisa…</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="3">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">3</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="7348449" data-action="/answer/content" data-author-name="老王夫子" data-entry-url="/question/37853060/answer/73886950">
+
+<textarea hidden class="content">不是量子物理吗？已经到几何分析了吗？我期待有一天到组合数论~</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+不是量子物理吗？已经到几何分析了吗？我期待有一天到组合数论~
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/37853060/answer/73886950">发布于 2015-11-25</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-7348449"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-item" id="mi-1448342037">
+<h2><a class="question_link" href="/question/37698481/answer/73693935" data-id="7286680">如何让普通人明白数学有多复杂？</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="24900707"
+data-atoken="73693935"
+data-collapsed="0"
+data-created="1448342037"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/37698481/answer/73693935">
+<meta itemprop="answer-id" content="24900707">
+<meta itemprop="answer-url-token" content="73693935">
+<a class="zg-anchor-hidden" name="answer-24900707"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>100</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">100</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/lao-wang-fu-zi" target="_blank" data-tip="p$t$lao-wang-fu-zi"
+
+><img src="https://pic4.zhimg.com/bd1a5b76b83e123336885fbd84c70033_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$lao-wang-fu-zi"
+target="_blank" href="/people/lao-wang-fu-zi"
+>老王夫子</a>
+
+
+<span title="知乎专栏：夫子三乐；微信公众号：fuzisanle。" class="bio">，知乎专栏：夫子三乐；微信公众号：fuzisa…</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="100">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">100</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="7286680" data-action="/answer/content" data-author-name="老王夫子" data-entry-url="/question/37698481/answer/73693935">
+
+<textarea hidden class="content">仔细想一下，从幼儿园开始、到小学初中高中、一直到大学本科，共20年的时间，每周假设只学4节2小时的数学（作业练习都算上），每周8小时，一年就算50周，400小时，20年也有8000小时，然而现代数学还没有入门，还在研究几百年前的知识和理论，是不是会觉得数学挺复杂。&lt;br&gt;-----------------------------------------&lt;br&gt;感谢大家，我仔细看了所有评论。这个答案并不严谨，有很多地方禁不起推敲，很抱歉，大家多包涵！其实我赞同 &lt;a data-hash=&quot;f82086e9ce257d3aeef2536a0a70a045&quot; href=&quot;//www.zhihu.com/people/f82086e9ce257d3aeef2536a0a70a045&quot; class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@李小昂&quot; data-tip=&quot;p$b$f82086e9ce257d3aeef2536a0a70a045&quot;&gt;@李小昂&lt;/a&gt;的答案，&lt;b&gt;我们多么不遗余力苦心孤诣地左科普右科普宣传数学简单好把更多人拉上贼船，&lt;/b&gt;对大多数人来说数学还是越简单越好。</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+仔细想一下，从幼儿园开始、到小学初中高中、一直到大学本科，共20年的时间，每周假设只学4节2小时的数学（作业练习都算上），每周8小时，一年就算50周，400小时，20年也有8000小时，然而现代数学还没有入门，还在研究几百年前的知识和理论，是不是会觉得数…
+
+<a href="/question/37698481/answer/73693935" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2015-11-24" target="_blank" href="/question/37698481/answer/73693935">编辑于 2015-11-27</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-7286680"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>39 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-item" id="mi-1447744104">
+<h2><a class="question_link" href="/question/31009331/answer/72634824" data-id="4586341">应试教育有什么危害？</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="24476178"
+data-atoken="72634824"
+data-collapsed="0"
+data-created="1447744104"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/31009331/answer/72634824">
+<meta itemprop="answer-id" content="24476178">
+<meta itemprop="answer-url-token" content="72634824">
+<a class="zg-anchor-hidden" name="answer-24476178"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>4</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">4</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/lao-wang-fu-zi" target="_blank" data-tip="p$t$lao-wang-fu-zi"
+
+><img src="https://pic4.zhimg.com/bd1a5b76b83e123336885fbd84c70033_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$lao-wang-fu-zi"
+target="_blank" href="/people/lao-wang-fu-zi"
+>老王夫子</a>
+
+
+<span title="知乎专栏：夫子三乐；微信公众号：fuzisanle。" class="bio">，知乎专栏：夫子三乐；微信公众号：fuzisa…</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="4">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">4</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="4586341" data-action="/answer/content" data-author-name="老王夫子" data-entry-url="/question/31009331/answer/72634824">
+
+<textarea hidden class="content">应试教育有什么危害？素质教育有什么危害？前一个问题的出现人们觉得理所应当，而后一个问题提出来“你疯了？素质教育有什么危害？”而事实是，任何一种教育方式都是片面的，都不能适应全部的个体。对于一个单体的人，教育是存在最优解的（能否实现是另一回事），但对于群体，抱歉，我悲观的认为没有任何一种教育适合所有人。&lt;br&gt;&lt;br&gt;既然如此，那么应试教育自然是有危害的，但同样的好处也很多，我更倾向于应试教育对人群平均文化能力的改善作用快速，提升有力，这一点从我国的文盲比率下降速度很容易看出来，但同时应试教育会削弱人群的方差，使人趋于平均。所以随着义务教育的推广、人们知识和智力水平、受教育水平的提升，越来越多的人不愿意接受普适化教育希望接受高级的教育，注意这里的高级不是指学历，不是指大学，而是定制化的教育，比如知乎上很多人，文化程度很高，开始意识到最好的教育一定是个性化的，针对个人的，就会希望能够针对自己或自己的下一代实行这样的教育，而应试教育的考试压力很明显会阻碍个性化的实施，于是在很多人的心中“公共教育是低效的、不具有针对性的，最好学校里简单一些、升班升级容易一些，让我把更多的资金和精力投入孩子个性化、定制化的成长中！”无关对错，却也引起了引发了讨论。&lt;br&gt;&lt;br&gt;教育是私人的，而教育制度教育模式是公共的，特别是义务教育，这是国家提升国民素质采取的策略，无论这个策略是应试、还是素质，都一定有人支持有人反对，只是政策如何倾斜、如何照顾大多数的问题。对这个，就不多做阐述了，&lt;b&gt;中国太大了，人太多了，国家的问题太难&lt;/b&gt;。&lt;br&gt;&lt;br&gt;所以我并不反对应试教育，甚至支持。但我仍然觉得应试教育有问题，而&lt;b&gt;最大的问题在于应试不是目的，教育才是目的，或者说人的成长才是教育的目的，应试只是手段&lt;/b&gt;（有的时候觉得这种手段真真有效，比如很多人一生最努力的时候就是在高中）。而在现实中，本末倒置了，人们觉得考试是最终目的，而忽视了人本身。不考个好成绩怎么上中学？不考个好成绩怎么上大学？这样的想法不仅扭曲了教育，扭曲了孩子学习的价值，更扭曲了孩子自身的价值。如果家长和学校能够意识到学习知识不是为了考试，是为了提高孩子的学习能力，思维能力，逻辑能力，着眼点放的长远，应试教育不会有那么多骂名，也许还是适应国情的好策略。&lt;br&gt;&lt;br&gt;我们的老校长就说：“要教孩子掌握学习的能力、思考的能力，考试需要的那点知识水平能力要求，学时就成就了，成绩还不是手把拿？”</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+应试教育有什么危害？素质教育有什么危害？前一个问题的出现人们觉得理所应当，而后一个问题提出来“你疯了？素质教育有什么危害？”而事实是，任何一种教育方式都是片面的，都不能适应全部的个体。对于一个单体的人，教育是存在最优解的（能否实现是另一回…
+
+<a href="/question/31009331/answer/72634824" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/31009331/answer/72634824">发布于 2015-11-17</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-4586341"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>3 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="border-pager">
+<div class="zm-invite-pager">
+
+<span class="zg-gray-normal">上一页</span>
+
+
+
+
+
+
+
+
+<span class="zg-gray-normal">1</span>
+
+
+
+<span><a href="?page=2">2</a></span>
+
+
+
+<span><a href="?page=3">3</a></span>
+
+
+
+<span>...</span>
+
+<span><a href="?page=5">5</a></span>
+
+
+
+<span><a href="?page=2">下一页</a></span>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+
+
+<div class="zu-main-sidebar">
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="SignFlow SignFlow--bordered" id="SidebarSignFlow">
+<div class="SignFlow-panel">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register SignupForm">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" aria-label="姓名" data-placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+
+<input type="text" name="phone_num" class="account" aria-label="手机号（仅支持中国大陆）" data-placeholder="手机号（仅支持中国大陆）" required>
+
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" aria-label="密码" data-placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha-module" data-type="en" >
+<input id="captcha" name="captcha" placeholder="验证码" required data-rule-required="true" data-msg-required="请填写验证码">
+<div class="captcha-container">
+
+<img class="js-refreshCaptcha captcha" width="120" height="30" data-tip="s$t$看不清楚？换一张"  alt="验证码">
+</div>
+</div>
+<div class="actions">
+
+<input type="submit" value="注册" class="submit zg-btn-blue">
+
+</div>
+<div class="sns clearfix">
+<span>已有帐号？<a href="#" class="switch-to-login">登录</a></span>
+</div>
+</form>
+</div>
+</div>
+<div class="SignFlow-panel" hidden>
+<div class="LoginForm">
+<div class="title login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form method="POST">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" aria-label="手机号或邮箱" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" aria-label="密码" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha-module" data-type="en" >
+<input id="captcha" name="captcha" placeholder="验证码" required data-rule-required="true" data-msg-required="请填写验证码">
+<div class="captcha-container">
+
+<img class="js-refreshCaptcha captcha" width="120" height="30" data-tip="s$t$看不清楚？换一张"  alt="验证码">
+</div>
+</div>
+<div class="actions">
+
+<input type="submit" value="登录" class="submit zg-btn-blue">
+
+</div>
+<div class="sns clearfix">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button type="button" class="js-show-sns-buttons is-visible">社交帐号登录</button>
+<div class="sns-buttons">
+<button type="button" class="wechat"><span class="ico sprite-global-icon-wechat-gray"></span>微信</button>
+<button type="button" class="weibo"><span class="ico sprite-global-icon-weibo-gray"></span>微博</button>
+<button type="button" class="qq"><span class="ico sprite-global-icon-qq-gray"></span>QQ</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="zm-profile-side-following zg-clear">
+<a class="item" href="/people/lao-wang-fu-zi/followees">
+<span class="zg-gray-normal">关注了</span><br />
+<strong>11</strong><label> 人</label>
+</a>
+<a class="item" href="/people/lao-wang-fu-zi/followers">
+<span class="zg-gray-normal">关注者</span><br />
+<strong>1269</strong><label> 人</label>
+</a>
+</div>
+<div class="zm-profile-side-section">
+<div class="zm-side-section-inner zg-clear">
+<div class="zm-profile-side-section-title">
+关注了 <a href="/people/lao-wang-fu-zi/columns/followed" class="zg-link-litblue"><strong>1 个专栏</strong></a>
+</div>
+<div class="zm-profile-side-columns">
+
+<a href="http://zhuanlan.zhihu.com/MathplusPlus" data-tip="c$t$MathplusPlus" class="link" target="_blank">
+<img class="Avatar Avatar--is" src="https://pic3.zhimg.com/0d5f7baf2_l.jpg" srcset="https://pic3.zhimg.com/0d5f7baf2_l.jpg 2x" alt="看！你身边有一只数学！" />
+</a>
+
+</div>
+</div>
+</div>
+<div class="zm-profile-side-section">
+<div class="zm-side-section-inner zg-clear">
+<div class="zm-profile-side-section-title">
+关注了 <a href="/people/lao-wang-fu-zi/topics" class="zg-link-litblue"><strong>56 个话题</strong></a>
+</div>
+<div class="zm-profile-side-topics" id="zh-profile-following-topic">
+
+<a class="link" data-tip="t$t$19553176" href="/topic/19553176">
+<img class="Avatar Avatar--l" src="https://pic2.zhimg.com/f672948364a6592511342b965bbfad91_l.jpg" srcset="https://pic2.zhimg.com/f672948364a6592511342b965bbfad91_xl.jpg 2x" alt="教育" />
+</a>
+
+<a class="link" data-tip="t$t$19554091" href="/topic/19554091">
+<img class="Avatar Avatar--l" src="https://pic1.zhimg.com/3dc1abe04_l.jpg" srcset="https://pic1.zhimg.com/3dc1abe04_xl.jpg 2x" alt="数学" />
+</a>
+
+<a class="link" data-tip="t$t$19556671" href="/topic/19556671">
+<img class="Avatar Avatar--l" src="https://pic1.zhimg.com/b1ff5998c_l.jpg" srcset="https://pic1.zhimg.com/b1ff5998c_xl.jpg 2x" alt="儿童教育" />
+</a>
+
+<a class="link" data-tip="t$t$19571350" href="/topic/19571350">
+<img class="Avatar Avatar--l" src="https://pic3.zhimg.com/221ccd87e_l.jpg" srcset="https://pic3.zhimg.com/221ccd87e_xl.jpg 2x" alt="趣味数学" />
+</a>
+
+<a class="link" data-tip="t$t$19551147" href="/topic/19551147">
+<img class="Avatar Avatar--l" src="https://pic4.zhimg.com/d5aed1527_l.jpg" srcset="https://pic4.zhimg.com/d5aed1527_xl.jpg 2x" alt="生活" />
+</a>
+
+<a class="link" data-tip="t$t$19674923" href="/topic/19674923">
+<img class="Avatar Avatar--l" src="https://pic1.zhimg.com/e82bab09c_l.jpg" srcset="https://pic1.zhimg.com/e82bab09c_xl.jpg 2x" alt="初中数学" />
+</a>
+
+<a class="link" data-tip="t$t$19552439" href="/topic/19552439">
+<img class="Avatar Avatar--l" src="https://pic1.zhimg.com/5daddd688_l.jpg" srcset="https://pic1.zhimg.com/5daddd688_xl.jpg 2x" alt="NBA" />
+</a>
+
+</div>
+</div>
+</div>
+
+<div class="zm-profile-side-section">
+<div class="zm-side-section-inner">
+<span class="zg-gray-normal">个人主页被 <strong>713</strong> 人浏览</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="current_people">["\u8001\u738b\u592b\u5b50","lao-wang-fu-zi","https:\/\/pic4.zhimg.com\/bd1a5b76b83e123336885fbd84c70033_s.jpg","d0fa15c34e27aa7f7776c6f05cb0b4a6"]</script>
+<div id="zh-footer" class="zh-footer">
+<div class="content zg-wrap clearfix">
+<ul>
+
+<li><a href="https://liukanshan.zhihu.com" target="_blank">刘看山</a></li>
+
+<li><a href="/app" target="_blank">移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="/contact">联系我们</a></li>
+
+</ul>
+
+<span class="copy">&copy; 2016 知乎</span>
+
+</div>
+</div>
+
+
+</div>
+
+
+</div>
+
+
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="user_status">[null,null]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null,false]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1465997770000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="ra-urls">{"Report":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/Report.7b207896.js","Community":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/Community.97844271.js","common":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/common.33e6b712.js","CommentApp":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/CommentApp.02a04f26.js"}</script>
+
+<script src="https://static.zhihu.com/static/revved/-/js/vendor.ff76fbae.js"></script>
+<script src="https://static.zhihu.com/static/revved/-/js/closure/base.d6b415ee.js"></script>
+
+<script src="https://static.zhihu.com/static/revved/-/js/closure/common.6dfae752.js"></script>
+
+
+<script src="https://static.zhihu.com/static/revved/-/js/closure/richtexteditor.1d78744f.js" async></script>
+<script src="https://static.zhihu.com/static/revved/-/js/closure/page-profile.7d6eff19.js"></script>
+<meta name="entry" content="ZH.entryProfile" data-module-id="page-profile">
+
+<script type="text/zscript" znonce="da933916442a4dd784cb9a7aa9512f2d"></script>
+
+<input type="hidden" name="_xsrf" value="9b427d9ea024d34397e2c114e0e3633f"/>
+</body>
+</html>
