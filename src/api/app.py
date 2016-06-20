@@ -17,8 +17,8 @@ parser.add_argument("question_id")
 class Question(Resource):
     def get(self, question_id):
         q = question.Question(question_id)
-        answer_list = q.get_answer_list()
-        return answer_list[0]
+        # answer_list = q.get_answer_list()
+        return q.get_question_info()
 
 
 api.add_resource(Question, '/question/<question_id>')
